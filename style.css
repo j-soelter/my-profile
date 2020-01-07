@@ -41,8 +41,14 @@ img {
 }
 
 .container {
-	width:700px;
+	width:800px;
 	margin: 40px auto;
+}
+
+@media (max-width: 900px) {
+	.container {
+		width: 720px;
+	}
 }
 
 @media (max-width: 760px) {
