@@ -43,6 +43,7 @@ img {
 .container {
 	width:800px;
 	margin: 40px auto;
+	background-color: red,
 }
 
 @media (max-width: 900px) {
